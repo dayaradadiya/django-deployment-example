@@ -26,7 +26,7 @@ SECRET_KEY = 'django-insecure-c2cj%*2!kw=h&_w#n%^8x3@97%&fak1@$w4q#dye^6dcvuxd+z
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ["radadiya.pythonanywhere.com"]
 
 
 # Application definition
